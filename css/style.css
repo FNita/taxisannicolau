@@ -790,7 +790,8 @@ body {
     }
 
     .logo-img {
-        width: 200px;
+        width: 150px;
+        margin-bottom: 20px;
     }
 
     .block-undertaxi {
