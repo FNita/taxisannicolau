@@ -1,3 +1,8 @@
+html,
+body {
+    font-family: 'Inter', sans-serif;
+}
+
 /*** Spinner Start ***/
 
 #spinner {
@@ -820,10 +825,10 @@ body {
     }
 
     .suna-top {
-        font-size: 30px;
+        font-size: 28px;
     }
 
     .suna-bottom {
-        font-size: 22px;
+        font-size: 20px;
     }
 }
