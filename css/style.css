@@ -818,4 +818,12 @@ body {
     .taxi-img {
         top: -100px;
     }
+
+    .suna-top {
+        font-size: 30px;
+    }
+
+    .suna-bottom {
+        font-size: 22px;
+    }
 }
