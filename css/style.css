@@ -803,6 +803,14 @@ body {
         margin-bottom: 1rem;
     }
 
+    /* no animations on small screens */
+    .wow {
+        visibility: visible !important;
+        -webkit-animation-name: none !important;
+        -o-animation-name: none !important;
+        animation-name: none !important;
+    }
+
 }
 
 @media (max-width: 550px) {
